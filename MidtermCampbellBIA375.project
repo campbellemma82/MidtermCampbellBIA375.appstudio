@@ -42,6 +42,14 @@
             "animals",
             "animals.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "animalExtraXP",
+            "animalExtraXP.json"
+          ]
         }
       ],
       "configxml": null,
@@ -63,7 +71,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "incomeBracket",
+      "firstform": "animals",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
